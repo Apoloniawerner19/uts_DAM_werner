@@ -1,4 +1,4 @@
-# uts_DAM_werner3
+# uts_DAM_werner
 # Analisis Spasial Pariwisata & Korelasi Parameter Cuaca Provinsi NTT
 
 Proyek ini disusun untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah **Data Acquisition & Management (DAM)**. Proyek ini berfokus pada akuisisi data spasial pariwisata dan parameter cuaca di Provinsi Nusa Tenggara Timur (NTT) menggunakan sumber data riil yang terverifikasi serta mematuhi kaidah etika dan legalitas pengumpulan data.
