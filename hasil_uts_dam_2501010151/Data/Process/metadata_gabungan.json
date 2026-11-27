@@ -1,0 +1,16 @@
+{
+  "nama_berkas": "Data/Process/gabungan_pariwisata_ntt.csv",
+  "sumber_1": "Web Scraping BPS Provinsi NTT",
+  "sumber_2": "Open-Meteo Weather API",
+  "kunci_penggabungan": "kabupaten_kota",
+  "validasi_merge": "one_to_one",
+  "jumlah_baris": 22,
+  "jumlah_kolom": 4,
+  "kolom": [
+    "kabupaten_kota",
+    "sumber_data_web",
+    "rata_suhu_maks_c",
+    "total_curah_hujan_mm"
+  ],
+  "waktu_pembuatan": "2026-11-26T16:56:09.730788"
+}
