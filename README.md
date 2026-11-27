@@ -11,7 +11,7 @@ Proyek ini disusun untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah 
 
 ---
 
-## 📊 Sumber Data Riil (Anti-Dummy)
+##  Sumber Data Riil (Anti-Dummy)
 Seluruh dataset dalam proyek ini diambil langsung dari sumber terbuka yang resmi dan kredibel tanpa menggunakan data buatan (*dummy*):
 
 1. **OpenStreetMap (OSM):** Data titik koordinat dan atribut destinasi wisata di wilayah Provinsi NTT.
@@ -20,7 +20,7 @@ Seluruh dataset dalam proyek ini diambil langsung dari sumber terbuka yang resmi
 
 ---
 
-## 🛡️ Kepatuhan Etis & Legalitas Akuisisi Data
+##  Kepatuhan Etis & Legalitas Akuisisi Data
 Sebagai bentuk pertanggungjawaban akademik dan pemenuhan catatan evaluasi, proses akuisisi data telah melewati tahapan validasi berikut:
 
 * **Uji Legalitas `robots.txt`:** Seluruh endpoint dan sumber pengambilan data telah diuji kepatuhannya terhadap protokol `robots.txt` dan dinyatakan lolos secara murni tanpa melanggar batasan akses server.
@@ -28,7 +28,7 @@ Sebagai bentuk pertanggungjawaban akademik dan pemenuhan catatan evaluasi, prose
 
 ---
 
-## 📁 Struktur Direktori Proyek
+##  Struktur Direktori Proyek
 
 ```text
 uts_DAM_werner/
@@ -40,14 +40,14 @@ uts_DAM_werner/
 
 ---
 
-## 🛠️ Teknologi & Pustaka yang Digunakan
+##  Teknologi & Pustaka yang Digunakan
 * **Lingkungan Pengembangan:** Google Colaboratory (Python 3)
 * **Akuisisi & Pemrosesan Data:** `pandas`, `requests`, `geopandas`
 * **Analisis Spasial & Visualisasi:** `folium` / `matplotlib` / `seaborn`
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+##  Cara Menjalankan Proyek
 1. *Clone* repositori ini ke komputer lokal Anda:
    ```bash
    git clone https://github.com.git
